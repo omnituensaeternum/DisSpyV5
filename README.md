@@ -26,7 +26,9 @@ git clone https://github.com/omnituensaeternum/DisSpyV5.git
 cd DisSpyV5
 ```
 Run the setup script or create a virtual python enviroment and install dependencies.
+
 Ensure you populate cfg.py with the needed values or nothing will work, I recommend aged discord accounts for this program not new or easily lockable ones
+
 Not responsible for what you do with this software, this is a self bot which is against discords TOS bla bla bla you know the drill.
 
 ## Acknowledgements
